@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mateoarbini1998@gmail.com**
 
-- 📚 Fun fact : I have a degree in International Relations
+- 📚 I have a degree in International Relations
 
 <br>
 
