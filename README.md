@@ -31,7 +31,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github"
-      width="40" height="40" /> </a>
+      width="40" height="40" /> </a> <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma"
+      width="40" height="40" /> </a> 
 
 <br>
 
