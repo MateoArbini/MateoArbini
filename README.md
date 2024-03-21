@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mateo Arbini</h1>
 <br>
 
-<div>
-  <img align="right" width=330px src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img align="right" width=330px src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 - 🌱 I’m currently a Junior Software Engineer
-
 - 📫 How to reach me **mateoarbini1998@gmail.com**
-
 - 📚 I have a degree in International Relations
-</div>
 
 <br>
 
