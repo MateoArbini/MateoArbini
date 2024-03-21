@@ -9,13 +9,13 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/mateo-arbini-1493691a8/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateo arbini" width="30" /> </a>
 
 
 
-<h3 align="left">Stack:</h3>
+<h2 align="left">Stack:</h2>
 <div>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
