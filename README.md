@@ -3,7 +3,7 @@
 
 <ul>
   <li>🌱 I’m currently a Junior Software Engineer</li>
-  <li>📫 How to reach me **mateoarbini1998@gmail.com**</li>
+  <li>📫 How to reach me ***mateoarbini1998@gmail.com***</li>
   <li>📚 I have a Degree in International Relations</li>
 </ul>
 
