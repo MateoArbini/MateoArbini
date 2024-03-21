@@ -27,6 +27,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40"/>
   </div>
   <div>
     <h5> Databases </h5>
