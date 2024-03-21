@@ -7,11 +7,11 @@
   <li>📚 I have a Degree in International Relations</li>
 </ul>
 
-
-
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/mateo-arbini-1493691a8/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateo arbini" width="30" /> </a>
+
+<br>
 
 <h2 align="left">Stack:</h2>
 <div>
@@ -37,7 +37,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40"
   </div>
 
+<br>
   
-<h2>Statistical Data:</h2>
+<h2 align="center">Statistical Data:</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateoArbini&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="MateoArbini" bg_color=#808080/>
