@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a Junior Software Engineer
 - 📫 How to reach me **mateoarbini1998@gmail.com**
-- 📚 I have a degree in International Relations
+- 📚 I have a Degree in International Relations
 
 <br>
 
