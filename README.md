@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mateo Arbini</h1>
 <br>
-- 🌱 I’m currently a Junior Software Engineer
-- 📫 How to reach me **mateoarbini1998@gmail.com**
-- 📚 I have a Degree in International Relations
+
+<ul>
+  - 🌱 I’m currently a Junior Software Engineer
+  - 📫 How to reach me **mateoarbini1998@gmail.com**
+  - 📚 I have a Degree in International Relations
+</ul>
+
 
 
 <h2 align="left">Connect with me:</h2>
