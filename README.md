@@ -43,4 +43,3 @@
 <h2 align="center">Statistical Data:</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateoArbini&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="MateoArbini" bg_color=#808080/>
-<img src="https://github.com/swyxio/swyxio/blob/master/generated/languages.svg"/> 
