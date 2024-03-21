@@ -26,6 +26,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40"/>
   
 <h3>Statistical Data:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateoArbini&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
