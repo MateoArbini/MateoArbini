@@ -1,4 +1,4 @@
-<h1 align="center" animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite>Hi 👋, I'm Mateo Arbini</h1>
+<h1 align="center">Hi 👋, I'm Mateo Arbini</h1>
 <br>
 
 <ul>
