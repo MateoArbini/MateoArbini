@@ -9,14 +9,9 @@
 - 📚 I have a Degree in International Relations
 </div>
 
-
-<br>
-
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/mateo-arbini-1493691a8/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateo arbini" width="30" /> </a>
-
-
 
 <h2 align="left">Stack:</h2>
 <div>
