@@ -15,7 +15,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Stack:</h3>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
