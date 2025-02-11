@@ -2,7 +2,7 @@
 <br>
 
 <ul>
-  <li> 🚶  I´m 25</li>
+  <li> 🚶  I´m 26</li>
   <li>🌱 I’m currently a Junior Software Developer</li>
   <li>📫 How to reach me mateoarbini1998@gmail.com</li>
   <li>📚 I have a Degree in International Relations</li>
